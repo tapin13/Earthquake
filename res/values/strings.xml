@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Earthquake</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_earthquake">Earthquake</string>
+	<string name="quake_feed">http://earthquake.usgs.gov/eqcenter/catalogs/1day-M2.5.xml</string>
+	<string name="menu_update">Refresh Earthquakes</string>
+</resources>
